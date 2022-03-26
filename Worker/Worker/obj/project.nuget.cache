@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AKMAx5kug4NNcx7w/A3MxdFaNmGq5+cLS/xnC1TbJ8tzy4Hcl/uDF1cc7ks9Q1hfnezaR8g9IfYk7iIMcF/iVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Downloads\\PMIM\\Worker\\Worker\\Worker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

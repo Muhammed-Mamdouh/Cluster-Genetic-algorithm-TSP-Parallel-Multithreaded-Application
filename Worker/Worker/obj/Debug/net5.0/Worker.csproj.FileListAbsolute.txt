@@ -1,0 +1,59 @@
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\bin\Debug\net5.0\Worker.exe
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\bin\Debug\net5.0\Worker.deps.json
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\bin\Debug\net5.0\Worker.runtimeconfig.json
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\bin\Debug\net5.0\Worker.runtimeconfig.dev.json
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\bin\Debug\net5.0\Worker.dll
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\bin\Debug\net5.0\ref\Worker.dll
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\bin\Debug\net5.0\Worker.pdb
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\obj\Debug\net5.0\Worker.csproj.AssemblyReference.cache
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\obj\Debug\net5.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\obj\Debug\net5.0\Worker.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\obj\Debug\net5.0\Worker.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\obj\Debug\net5.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\obj\Debug\net5.0\Worker.csproj.CopyComplete
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\obj\Debug\net5.0\Worker.dll
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\obj\Debug\net5.0\ref\Worker.dll
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\obj\Debug\net5.0\Worker.pdb
+C:\Users\DELL\RiderProjects\New folder\Worker\Worker\obj\Debug\net5.0\Worker.genruntimeconfig.cache
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.exe
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.deps.json
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.runtimeconfig.json
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.runtimeconfig.dev.json
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.dll
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\bin\Debug\net5.0\ref\Worker.dll
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.pdb
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.csproj.AssemblyReference.cache
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.csproj.CopyComplete
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.dll
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\obj\Debug\net5.0\ref\Worker.dll
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.pdb
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.genruntimeconfig.cache
+C:\Users\DELL\RiderProjects\New folder\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.dll.config
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.exe
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.dll.config
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.deps.json
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.runtimeconfig.json
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.dll
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\bin\Debug\net5.0\ref\Worker.dll
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\bin\Debug\net5.0\Worker.pdb
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.AssemblyInfo.cs
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.csproj.CopyComplete
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.dll
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\obj\Debug\net5.0\ref\Worker.dll
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.pdb
+C:\Users\DELL\Downloads\PMIM\Worker\Worker\obj\Debug\net5.0\Worker.genruntimeconfig.cache

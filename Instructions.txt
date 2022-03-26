@@ -1,0 +1,12 @@
+1- start rabbitMQ server
+how: https://gregorbowie.wordpress.com/2020/01/31/rabbitmq-on-windows-with-docker/
+
+2- start instances of the Worker app (number up to you)
+
+3- Enter Island No ( enter just the number ) for each instance
+
+4- In Master open config file and specify hyperparameters
+
+5- Enter the Islands names as "I1,I2,I3,I4" (number of Islands must be equal or lower than open Instances)
+
+6- run Master
